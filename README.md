@@ -31,7 +31,22 @@ This is a personal note for setting up Fedora and KDE on the Framework Laptop
     3. `/home/alireza/data`: unencrypted ext4 (for database like files)
     4. `home/alireza/work`: unencrypted btrfs (for text source code)
     5. 32GB swap
-    6. /boot and /boot/uefi as usual
+    6. /boot and /boot/efi: 1gb each, unencrypted
 1. 
 
 # After installation
+1. Set tap to click and natural scrolling on touchpad.
+1. Update all packages, restart
+1. Install terminator, set background transparency to 75%
+1. Install git
+1. Change Ctrl+Alt+T to open Terminator: In keyboard shortcuts, type konsole, remove shortcut and create one for Terminator
+2. Install zsh and oh-my-zsh
+3. Install
+4. Add a panel to the external monitor, set panels to never group icons.
+5. Install firefox multi account containers
+6. Add persian keyboard, set layout to be per application, add layout indicator widget to panel, set it to show flag, change "Alternative shortcut" to Win+Space.
+7. Add Bitwarden add-on, disable auto login filling
+8. Install Spotify
+9. Install an ad blocker
+10. VsCode, change to light theme
+1. Generate new ssh key
