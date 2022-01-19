@@ -50,3 +50,4 @@ This is a personal note for setting up Fedora and KDE on the Framework Laptop
 9. Install an ad blocker
 10. VsCode, change to light theme
 1. Generate new ssh key
+2. Set this  flag: chrome://flags/#enable-webrtc-pipewire-capturer, otherwise, screen shar
